@@ -1,2 +1,2 @@
-# hello-world
-Just "another" repo
+# Software Design Lecture
+Group 05 repo
